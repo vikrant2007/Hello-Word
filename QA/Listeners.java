@@ -22,5 +22,7 @@ public class Listeners implements ITestListener {
 	public void onTestSuccess(ITestResult tr) {
 		System.out.println("This test case is pass");
 	}
+	public Void test
+	System.out.println("Hello Word");
 
 }
